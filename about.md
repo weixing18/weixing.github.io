@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+我的个人信息及联系方式
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### 联系我
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[1021497884@qq.com](mailto:1021497884@qq.com)
